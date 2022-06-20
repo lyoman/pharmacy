@@ -1,0 +1,6 @@
+{
+	"appId": "www.pharmacy.locator",
+	"appName": "pharmacy",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
